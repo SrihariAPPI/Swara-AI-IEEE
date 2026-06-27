@@ -1,6 +1,4 @@
-import { config } from 'dotenv';
-import { resolve } from 'path';
-config({ path: resolve(import.meta.dirname, '..', '..', '.env') });
+
 
 function getEnv(name: string, fallback?: string): string {
   const val = process.env[name] || fallback;

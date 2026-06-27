@@ -27,7 +27,7 @@ router.get('/', async (req: Request, res: Response) => {
   }
 
   const snapshot = await query.get();
-  const items = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+  const items = snapshot.docs.map((doc: any) => ({ id: doc.id, ...doc.data() }));
 
   res.json({
     items,

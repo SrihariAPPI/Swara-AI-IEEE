@@ -9,3 +9,6 @@ coverage/
 backend/node_modules/
 backend/dist/
 gh.exe
+
+.vercel
+.env*

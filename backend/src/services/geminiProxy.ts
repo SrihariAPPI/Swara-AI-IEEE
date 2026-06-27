@@ -51,9 +51,6 @@ export async function generateChat(
     config,
   });
 
-  if (typeof response.text === 'function') {
-    return await response.text();
-  }
   if (typeof response.text === 'string') {
     return response.text;
   }
@@ -92,7 +89,6 @@ export async function generateChatWithHistory(
   const lastMsg = messages[messages.length - 1];
   const response = await chat.sendMessage({ message: lastMsg.text });
 
-  if (typeof response.text === 'function') return await response.text();
   if (typeof response.text === 'string') return response.text;
   return response.candidates?.[0]?.content?.parts?.[0]?.text || '';
 }

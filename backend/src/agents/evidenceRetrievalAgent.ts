@@ -28,7 +28,7 @@ export async function retrieveEvidence(claim: string, topK: number = 10): Promis
       claim: (record.claim || record.text || '').slice(0, 500),
       label: normalizedLabel,
       evidence: (record.evidence || '').slice(0, 2000),
-      source: record.source_url || record.source || `Dataset:${match.datasetId}`,
+      source: String(record.source_url || record.source || `Dataset:${match.datasetId}`),
       relevanceScore: Math.max(0, Math.min(1, 1 - (idx * 0.1))),
     };
   });
