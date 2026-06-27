@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rwp-001",
+    "claim": "Sea levels are rising at an accelerating rate due to climate change",
+    "label": "SUPPORTS",
+    "evidence": "Satellite altimetry data shows sea level rise accelerating from 1.4 mm/year in the 20th century to 3.6 mm/year in the 2010s, and reaching 4.5 mm/year in recent measurements. Thermal expansion and ice sheet melt are primary drivers.",
+    "image_url": null,
+    "domain": "environment",
+    "language": "en",
+    "target": "climate change impacts"
+  },
+  {
+    "id": "rwp-002",
+    "claim": "Crime rates have increased dramatically in major cities since 2020",
+    "label": "NOT_ENOUGH_INFO",
+    "evidence": "While some categories of crime (particularly homicides) did spike in 2020-2021, overall crime rates show mixed trends. FBI data indicates property crime decreased while violent crime saw a temporary increase. By 2023, most cities returned to pre-pandemic trends.",
+    "image_url": null,
+    "domain": "politics",
+    "language": "en",
+    "target": "crime statistics"
+  },
+  {
+    "id": "rwp-003",
+    "claim": "Artificial intelligence will eliminate most white-collar jobs by 2030",
+    "label": "NOT_ENOUGH_INFO",
+    "evidence": "McKinsey estimates that AI could automate up to 30% of work activities by 2030, but most forecasts predict job transformation rather than elimination. Historical patterns show technology creates new job categories. The net employment effect remains uncertain.",
+    "image_url": null,
+    "domain": "technology",
+    "language": "en",
+    "target": "AI impact on employment"
+  },
+  {
+    "id": "rwp-004",
+    "claim": "Meditation has proven neurological benefits for stress reduction",
+    "label": "SUPPORTS",
+    "evidence": "MRI studies show regular meditation reduces amygdala size (stress response center) and increases prefrontal cortex thickness. A 2023 meta-analysis of 45 randomized controlled trials confirmed significant reductions in anxiety and depression symptoms.",
+    "image_url": null,
+    "domain": "health",
+    "language": "en",
+    "target": "mental health"
+  },
+  {
+    "id": "rwp-005",
+    "claim": "The government is adding tracking chemicals to public water supplies",
+    "label": "REFUTES",
+    "evidence": "Water treatment facilities add chlorine or chloramine for disinfection, and fluoride for dental health. No evidence supports claims of 'tracking chemicals.' The EPA strictly regulates water additives, requiring public disclosure of all treatments.",
+    "image_url": null,
+    "domain": "politics",
+    "language": "en",
+    "target": "water supply conspiracy"
+  }
+]

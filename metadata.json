@@ -1,0 +1,8 @@
+{
+  "name": "Swara",
+  "description": "A sassy, witty, and intelligent Indian female AI voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}

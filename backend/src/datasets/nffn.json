@@ -1,0 +1,66 @@
+[
+  {
+    "id": "nffn-001",
+    "text": "Breaking: Scientists discover that eating chocolate every day cures all known diseases - major pharmaceutical companies in shock",
+    "label": false,
+    "source": "satire-news-site.com",
+    "domain": "health",
+    "features": ["excessive_claims", "emotional_language", "unnamed_sources", "conspiracy_tone"]
+  },
+  {
+    "id": "nffn-002",
+    "text": "New study published in peer-reviewed journal Nature confirms that regular exercise reduces cardiovascular disease risk by 35%",
+    "label": true,
+    "source": "reuters.com",
+    "domain": "health",
+    "features": ["specific_statistics", "named_source", "measured_language"]
+  },
+  {
+    "id": "nffn-003",
+    "text": "Politician caught on secret recording admitting to accepting bribes - mainstream media refusing to cover story",
+    "label": false,
+    "source": "conspiracy-blog.net",
+    "domain": "politics",
+    "features": ["lack_of_evidence", "mainstream_media_attack", "unnamed_source", "conspiracy_tone"]
+  },
+  {
+    "id": "nffn-004",
+    "text": "Federal Reserve announces 0.25% interest rate increase citing continued inflation concerns above 2% target",
+    "label": true,
+    "source": "bloomberg.com",
+    "domain": "economy",
+    "features": ["specific_figures", "verifiable_event", "neutral_tone"]
+  },
+  {
+    "id": "nffn-005",
+    "text": "SHOCK: Miracle pill discovered that makes you lose 50 pounds in one week without diet or exercise - doctors hate this!",
+    "label": false,
+    "source": "clickbait-wellness.net",
+    "domain": "health",
+    "features": ["excessive_claims", "medical_miracle", "emotional_language", "targeted_advertising_tone"]
+  },
+  {
+    "id": "nffn-006",
+    "text": "Japan successfully lands robotic probe on lunar surface, becoming fifth nation to achieve moon landing",
+    "label": true,
+    "source": "jaxa.jp",
+    "domain": "science",
+    "features": ["specific_event", "named_agency", "verifiable_achievement"]
+  },
+  {
+    "id": "nffn-007",
+    "text": "They don't want you to know this one simple truth about what really happened on January 6th",
+    "label": false,
+    "source": "anonymous-social-media",
+    "domain": "politics",
+    "features": ["vague_references", "conspiracy_tone", "they_want_to_hide_this", "no_sources"]
+  },
+  {
+    "id": "nffn-008",
+    "text": "UN Security Council unanimously approves new sanctions resolution targeting North Korean ballistic missile program",
+    "label": true,
+    "source": "un.org",
+    "domain": "politics",
+    "features": ["specific_organization", "verifiable_event", "formal_language"]
+  }
+]

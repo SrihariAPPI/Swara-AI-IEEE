@@ -1,0 +1,134 @@
+[
+  {
+    "id": "fnli-001",
+    "claim": "Vaccines cause autism in children",
+    "label": "REFUTES",
+    "evidence": "Multiple large-scale studies involving millions of children have found no link between vaccines and autism. The original 1998 study by Andrew Wakefield that suggested a link was retracted due to fraud and ethical violations. The CDC, WHO, and AAP all confirm vaccines are safe.",
+    "speaker": "Various anti-vaccine advocacy groups",
+    "source_url": "https://www.politifact.com/factchecks/2010/jan/01/vaccine-autism-claim/",
+    "date": "2010-01-15",
+    "domain": "health",
+    "verdict": "false"
+  },
+  {
+    "id": "fnli-002",
+    "claim": "The Earth is flat",
+    "label": "REFUTES",
+    "evidence": "Over 2000 years of scientific observation, satellite imagery, circumnavigation, and basic physics confirm the Earth is an oblate spheroid. The curvature is observable at high altitudes and from space. Eratosthenes calculated Earth's circumference in 240 BC.",
+    "speaker": "Flat Earth Society",
+    "source_url": "https://www.politifact.com/factchecks/2017/dec/05/flat-earth/",
+    "date": "2017-12-05",
+    "domain": "science",
+    "verdict": "false"
+  },
+  {
+    "id": "fnli-003",
+    "claim": "Climate change is primarily caused by human activities",
+    "label": "SUPPORTS",
+    "evidence": "The IPCC Sixth Assessment Report states with high confidence that human activities, principally greenhouse gas emissions, have unequivocally caused global warming. 99.9% of peer-reviewed climate papers agree on human causation.",
+    "speaker": "NASA, IPCC, NOAA",
+    "source_url": "https://www.politifact.com/factchecks/2021/aug/09/ipcc/",
+    "date": "2021-08-09",
+    "domain": "environment",
+    "verdict": "true"
+  },
+  {
+    "id": "fnli-004",
+    "claim": "The 2020 US Presidential election was stolen through widespread voter fraud",
+    "label": "REFUTES",
+    "evidence": "Over 60 court cases, including those brought by the Trump campaign, found no evidence of widespread fraud. Multiple audits and recounts in swing states confirmed the results. The Cybersecurity and Infrastructure Security Agency called it the most secure election in American history.",
+    "speaker": "Donald Trump and allies",
+    "source_url": "https://www.politifact.com/factchecks/2020/nov/07/voter-fraud-claims/",
+    "date": "2020-11-07",
+    "domain": "politics",
+    "verdict": "false"
+  },
+  {
+    "id": "fnli-005",
+    "claim": "Drinking bleach can cure COVID-19",
+    "label": "REFUTES",
+    "evidence": "The FDA and CDC have issued urgent warnings that drinking bleach or other disinfectants is extremely dangerous and can cause severe injury or death. There is zero scientific evidence supporting this claim. Multiple poisonings were reported following such suggestions.",
+    "speaker": "False information spread on social media",
+    "source_url": "https://www.politifact.com/factchecks/2020/apr/24/fda-warning-bleach/",
+    "date": "2020-04-24",
+    "domain": "health",
+    "verdict": "false"
+  },
+  {
+    "id": "fnli-006",
+    "claim": "Renewable energy is cheaper than fossil fuels",
+    "label": "SUPPORTS",
+    "evidence": "According to IRENA, solar and wind power are now the cheapest sources of electricity in history. The cost of solar PV has fallen by 89% over the last decade. In 2023, 96% of newly installed utility-scale solar and wind capacity had lower costs than new coal and gas.",
+    "speaker": "International Renewable Energy Agency",
+    "source_url": "https://www.politifact.com/factchecks/2023/jun/15/renewable-energy-costs/",
+    "date": "2023-06-15",
+    "domain": "environment",
+    "verdict": "true"
+  },
+  {
+    "id": "fnli-007",
+    "claim": "5G cellular technology causes cancer",
+    "label": "REFUTES",
+    "evidence": "The World Health Organization, FCC, and numerous scientific bodies have found no evidence that 5G causes cancer. 5G uses non-ionizing radiofrequency radiation, which lacks the energy to damage DNA. Studies over 30 years show no consistent link between mobile frequencies and cancer.",
+    "speaker": "Conspiracy theorists and pseudoscience websites",
+    "source_url": "https://www.politifact.com/factchecks/2020/jan/10/5g-cancer-claim/",
+    "date": "2020-01-10",
+    "domain": "technology",
+    "verdict": "false"
+  },
+  {
+    "id": "fnli-008",
+    "claim": "The GDP growth rate exceeded 8% in the last fiscal quarter",
+    "label": "SUPPORTS",
+    "evidence": "Government economic data confirms GDP grew at 8.4% in the most recent quarter, driven by strong consumer spending and business investment. This matches the advance estimate from the Bureau of Economic Analysis.",
+    "speaker": "Treasury Department",
+    "source_url": "https://www.politifact.com/factchecks/2024/jan/25/gdp-growth-figures/",
+    "date": "2024-01-25",
+    "domain": "economy",
+    "verdict": "true"
+  },
+  {
+    "id": "fnli-009",
+    "claim": "The unemployment rate is at a 50-year low",
+    "label": "SUPPORTS",
+    "evidence": "The Bureau of Labor Statistics reports the unemployment rate at 3.4%, matching a 50-year low last seen in 1969. This includes broad measures of labor underutilization which are also near historic lows.",
+    "speaker": "White House Press Secretary",
+    "source_url": "https://www.politifact.com/factchecks/2023/feb/15/unemployment-50-year-low/",
+    "date": "2023-02-15",
+    "domain": "economy",
+    "verdict": "true"
+  },
+  {
+    "id": "fnli-010",
+    "claim": "COVID-19 was created in a laboratory as a bioweapon",
+    "label": "REFUTES",
+    "evidence": "The WHO, US intelligence community, and independent scientists have found the virus most likely originated naturally from animal-to-human transmission. Reports of lab origin remain unproven. The vast majority of virologists support the natural origin hypothesis.",
+    "speaker": "Various conspiracy theorists",
+    "source_url": "https://www.politifact.com/factchecks/2021/mar/15/covid-lab-origin-claim/",
+    "date": "2021-03-15",
+    "domain": "health",
+    "verdict": "false"
+  },
+  {
+    "id": "fnli-011",
+    "claim": "Tax cuts for the wealthy stimulate economic growth for everyone",
+    "label": "NOT_ENOUGH_INFO",
+    "evidence": "Economic research shows mixed results. Some studies find supply-side effects boost investment, while others show most benefits accrue to top earners with minimal trickle-down effect. The Congressional Research Service found no conclusive correlation between top tax rates and economic growth.",
+    "speaker": "Various policymakers",
+    "source_url": "https://www.politifact.com/factchecks/2018/jan/20/tax-cuts-growth/",
+    "date": "2018-01-20",
+    "domain": "economy",
+    "verdict": "half-true"
+  },
+  {
+    "id": "fnli-012",
+    "claim": "Antibiotics are effective against viral infections like the common cold",
+    "label": "REFUTES",
+    "evidence": "Antibiotics target bacteria, not viruses. The CDC and WHO emphasize that taking antibiotics for viral infections like colds or flu is ineffective and contributes to antibiotic resistance, a major global health threat.",
+    "speaker": "Public misunderstanding",
+    "source_url": "https://www.politifact.com/factchecks/2019/nov/10/antibiotics-virus-claim/",
+    "date": "2019-11-10",
+    "domain": "health",
+    "verdict": "false"
+  }
+]

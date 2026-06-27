@@ -1,0 +1,137 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default Deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Helper Primitives
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid)) ||
+        request.auth.token.email == 'kvsrihariprasad@gmail.com'
+      );
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // Admins Collection
+    match /admins/{adminId} {
+      // Only readable by other admins
+      allow get: if isAdmin() || isOwner(adminId);
+      allow list: if isAdmin();
+      allow write: if false; // Only manageable from Firebase Console
+    }
+
+    // Users Collection
+    match /users/{userId} {
+      function isValidUser(data) {
+        return data.uid == userId &&
+               ( 'email' in data ? data.email is string : true ) &&
+               ( 'displayName' in data ? data.displayName is string : true ) &&
+               ( 'photoURL' in data ? data.photoURL is string : true ) &&
+               data.lastLogin == request.time;
+      }
+      
+      allow get: if isOwner(userId) || isAdmin();
+      allow list: if isAdmin();
+      // Allow users to upsert their own profile on login
+      allow create, update: if isOwner(userId) && isValidUser(incoming());
+    }
+
+    // User Settings Rules
+    match /userSettings/{userId} {
+      function isValidUserSettings(data) {
+        return data.userId == userId &&
+               data.selectedVoice is string && data.selectedVoice.size() <= 64 &&
+               data.selectedMood is string && data.selectedMood.size() <= 64 &&
+               data.voiceSpeed is number && data.voiceSpeed >= 0.5 && data.voiceSpeed <= 2.0 &&
+               data.voicePitch is number && data.voicePitch >= -10 && data.voicePitch <= 10 &&
+               data.voiceAccent is string && data.voiceAccent.size() <= 64 &&
+               data.isMuted is bool &&
+               data.updatedAt == request.time;
+      }
+
+      allow get: if isOwner(userId);
+      allow create: if isOwner(userId) && 
+                      isValidUserSettings(incoming()) && 
+                      incoming().keys().hasAll(['userId', 'selectedVoice', 'selectedMood', 'voiceSpeed', 'voicePitch', 'voiceAccent', 'isMuted', 'updatedAt']) &&
+                      incoming().keys().size() == 8;
+      allow update: if isOwner(userId) && 
+                      isValidUserSettings(incoming()) &&
+                      incoming().diff(existing()).affectedKeys().hasOnly(['selectedVoice', 'selectedMood', 'voiceSpeed', 'voicePitch', 'voiceAccent', 'isMuted', 'updatedAt']);
+    }
+
+    // Messages Rules
+    match /messages/{messageId} {
+      function isValidMessage(data) {
+        return data.userId == request.auth.uid &&
+               data.sender in ['user', 'swara'] &&
+               data.text is string && data.text.size() <= 10000 &&
+               data.createdAt == request.time;
+      }
+
+      allow get: if (isSignedIn() && existing().userId == request.auth.uid) || isAdmin();
+      allow list: if (isSignedIn() && resource.data.userId == request.auth.uid) || isAdmin();
+      allow create: if isSignedIn() && 
+                      isValidId(messageId) &&
+                      isValidMessage(incoming()) &&
+                      incoming().keys().hasAll(['userId', 'sender', 'text', 'createdAt']) &&
+                      incoming().keys().size() == 4;
+      allow delete: if isSignedIn() && existing().userId == request.auth.uid;
+    }
+    
+    // Verification History
+    match /verification_history/{docId} {
+      allow read, write: if isSignedIn() && request.auth.uid == resource.data.userId;
+      allow create: if isSignedIn() && request.resource.data.userId == request.auth.uid;
+    }
+
+    // Connection Test
+    match /test/{docId} {
+      allow get: if true;
+    }
+
+    // Tasks Rules
+    match /users/{userId}/tasks/{taskId} {
+      function isValidTaskCreate(data) {
+        return data.id == taskId &&
+               data.text is string && data.text.size() <= 2000 &&
+               data.completed is bool &&
+               data.createdAt is number;
+      }
+      
+      allow get: if isOwner(userId);
+      allow list: if isOwner(userId);
+      allow create: if isOwner(userId) && 
+                      isValidId(taskId) &&
+                      isValidTaskCreate(incoming()) &&
+                      incoming().keys().hasAll(['id', 'text', 'completed', 'createdAt']) &&
+                      incoming().keys().size() == 4;
+      allow update: if isOwner(userId) && 
+                      incoming().diff(existing()).affectedKeys().hasOnly(['completed', 'text']) &&
+                      ( 'text' in incoming().diff(existing()).affectedKeys() ? incoming().text is string && incoming().text.size() <= 2000 : true ) &&
+                      ( 'completed' in incoming().diff(existing()).affectedKeys() ? incoming().completed is bool : true );
+      allow delete: if isOwner(userId);
+    }
+  }
+}

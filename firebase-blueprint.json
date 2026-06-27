@@ -1,0 +1,115 @@
+{
+  "entities": {
+    "UserSettings": {
+      "title": "User Settings",
+      "description": "User preferences for Swara assistant",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "The unique ID of the user" },
+        "selectedVoice": { "type": "string", "description": "The assistant voice selection" },
+        "selectedMood": { "type": "string", "description": "The assistant mood selection" },
+        "voiceSpeed": { "type": "number", "description": "Speech speed modifier (0.5 - 2.0)" },
+        "voicePitch": { "type": "number", "description": "Speech pitch modifier (-10 - 10)" },
+        "voiceAccent": { "type": "string", "description": "Preferred accent/regional nudge" },
+        "isMuted": { "type": "boolean", "description": "Whether the voice is muted" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "selectedVoice", "selectedMood", "voiceSpeed", "voicePitch", "voiceAccent", "isMuted", "updatedAt"]
+    },
+    "Message": {
+      "title": "Chat Message",
+      "description": "A single message in the chat history",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "The ID of the user this message belongs to" },
+        "sender": { "type": "string", "enum": ["user", "swara"] },
+        "text": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "sender", "text"]
+    },
+    "Task": {
+      "title": "User Task",
+      "description": "A task in the user's to-do list",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "text": { "type": "string" },
+        "completed": { "type": "boolean" },
+        "createdAt": { "type": "number" }
+      },
+      "required": ["id", "text", "completed", "createdAt"]
+    },
+    "User": {
+      "title": "User",
+      "description": "User profile and login record",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "lastLogin": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email", "lastLogin"]
+    },
+    "Admin": {
+      "title": "Admin",
+      "description": "Admin privileges marker",
+      "type": "object",
+      "properties": {
+        "email": { "type": "string" }
+      },
+      "required": ["email"]
+    }
+  },
+  "firestore": {
+    "/userSettings/{userId}": {
+      "schema": "UserSettings",
+      "description": "Per-user preferences"
+    },
+    "/messages/{messageId}": {
+      "schema": "Message",
+      "description": "Flat list of chat messages, queryable by userId"
+    },
+    "/users/{userId}/tasks/{taskId}": {
+      "schema": "Task",
+      "description": "Tasks belonging to a specific user"
+    },
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profile recorded on login"
+    },
+    "/admins/{adminId}": {
+      "schema": "Admin",
+      "description": "List of admin uids"
+    },
+    "/verification_history/{docId}": {
+      "schema": "VerificationRecord",
+      "description": "Verification history records for users"
+    }
+  },
+  "VerificationRecord": {
+    "title": "Verification Record",
+    "description": "A record of a verification analysis",
+    "type": "object",
+    "properties": {
+      "userId": { "type": "string" },
+      "input": { "type": "object", "properties": {
+        "type": { "type": "string", "enum": ["text", "url", "pdf", "image"] },
+        "content": { "type": "string" }
+      }},
+      "claims": { "type": "array" },
+      "verdict": { "type": "object", "properties": {
+        "label": { "type": "string", "enum": ["TRUE", "FALSE", "MISLEADING", "PARTIALLY_TRUE", "INSUFFICIENT_EVIDENCE"] },
+        "confidence": { "type": "number" }
+      }},
+      "evidenceUsed": { "type": "array" },
+      "reasoning": { "type": "object" },
+      "citations": { "type": "array" },
+      "metrics": { "type": "object" },
+      "createdAt": { "type": "string", "format": "date-time" }
+    },
+    "required": ["userId", "input", "verdict", "createdAt"]
+  }
+}
