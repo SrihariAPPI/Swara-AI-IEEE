@@ -12,3 +12,5 @@ gh.exe
 
 .vercel
 .env*
+datasets_raw/
+scripts/

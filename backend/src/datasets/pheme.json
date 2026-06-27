@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "pheme-0001",
+    "claim": "Charlie Hebdo became well known for publishing the Muhammed cartoons two years ago",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552784600502915072",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0002",
+    "claim": "Charlie Hebdo’s Last Tweet Before Shootings http://t.co/9Oa2xAqOcM http://t.co/skJHNEQcn0",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552784898743099392",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0003",
+    "claim": "Prediction: the #CharlieHebdo massacre will not dent the political class's complacency one iota",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552785391653494784",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0004",
+    "claim": "10:28am Charlie Hebdo account mocks ISIS leader, wishing him \"good health and best wishes\" http://t.co/9Oa2xAqOcM http://t.co/uYXayKLA7q",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552786116404072448",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0005",
+    "claim": "If your faith isn't strong enough to cope with satirical poke, it oughtn't be strong enough to induce you to kill. Barbaric #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552786299875520512",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0006",
+    "claim": "Just arrived at scene of massacre #Paris #charliehebdo http://t.co/bxDwfuqRz8",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552786340958715904",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0007",
+    "claim": "Police car with bullet holes in front of Charlie hebdo headquarter. Photo  @WilliamMolinie http://t.co/lzQdhJ6kxR",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552787144373460992",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0008",
+    "claim": "Police car with bullet holes in front of Charlie hebdo headquarter. Photo  @WilliamMolinie http://t.co/k6inhBmGsf",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552787144415404032",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0009",
+    "claim": "Every newspaper in Europe should publish those cartoons from Charlie Hebdo tomorrow. Every single one.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552787321561812992",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0010",
+    "claim": "Jews, Catholics, Muslims, white people, black people. Everyone attacked by Charlie Hebdo, yet who reacts like this? http://t.co/fkvhfJxPoO",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552787361437057024",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0011",
+    "claim": "'It's a massacre. There are dead!' employee of Charlie Hebdo tells French media outlet before call disconnects http://t.co/Q27XnP3AS3",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552787599031828480",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0012",
+    "claim": "If religion — any religion — is off-limits for open debate we are in a very dangerous situation. #Freedomofexpression #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552787914271510529",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0013",
+    "claim": "#CharlieHebdo published a cartoon of the notorious #ISIS leader last week (They've just tweeted the pic again). http://t.co/YYyxzNaFFb",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552788007603142656",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0014",
+    "claim": "The right to mock &amp; criticise religion is a key tenet of a free and democratic society, whether it be Islam or Christianity. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552788555584765952",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0015",
+    "claim": "French newspaper Charlie Hebdo's last tweet before gunmen attack http://t.co/vsjId0EWRk http://t.co/yJhgbhIXQ6",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552788720236376064",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0016",
+    "claim": "Today's #CharlieHebdo cover on Houellebecq: \"In 2022 I'll observe Ramadan\" http://t.co/G7zbitA3Cj",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552789196906459136",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0017",
+    "claim": "#CharlieHebdo. That is all. http://t.co/9zzpYZcAJ8",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552789252690706432",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0018",
+    "claim": "If this cartoon is why #CharlieHebdo staff have been shot at, all publications should show solidarity and republish http://t.co/LGuUi7dj1u",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552789443644751872",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0019",
+    "claim": "Solidarity with Charlie Hebdo. http://t.co/gvLp0NwLax",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552789550238801920",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0020",
+    "claim": "Charlie Hebdo's Nov 2011 CHARIA HEBDO \"guest-edited\" by Muhammad:\"100 lashes of the whip if you don't die laughing.\" http://t.co/5EzG448CNm",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552789583260577792",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0021",
+    "claim": "Charlie Hebdo's last cartoon on Twitter: Abu Bakr al-Baghdadi saying \"and especially, health!\" (New Year's greeting) http://t.co/UMEWDeR6z4",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552789886202175490",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0022",
+    "claim": "Jews, Catholics, Muslims, white people, black people. Everyone attacked by Charlie Hebdo, yet who reacts like this? http://t.co/gG5ZCJK9Ac",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552790565642067968",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0023",
+    "claim": "If the #CharlieHebdo killings are what many think they are, there are dark days ahead for #France and Europe. Everyone will lose.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552790598823186432",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0024",
+    "claim": "\"Love Stronger Than Hate.\" All our thoughts with #CharlieHebdo http://t.co/BqRLXRZdJT",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552790695036321793",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0025",
+    "claim": "This is the #CharlieHebdo cover of Prophet Mohammed that provoked firebombing of its offices http://t.co/hOUA9DrVaK http://t.co/vDj5EGiRRq",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552791159232540673",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0026",
+    "claim": "Why it's Charlie Hebdo's right to draw Muhammad http://t.co/GlF9dgwFS0 http://t.co/Vkfw5ZbmvC",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552791203432103937",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0027",
+    "claim": "For those saying we don't yet know who's responsible for #CharlieHebdo killings, yes, you're right, it was probably fundamentalist atheists.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552791332935434242",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0028",
+    "claim": "Anybody who wants to talk about what Charlie Hebdo might have done to \"provoke\" this should probably shut up, forever.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552791414388424704",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0029",
+    "claim": "Cowardly attack on Charlie Hebdo's offices. The humourless fanatics can fuck off. Freedom of speech is more important than your feelings.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552791678881660928",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0030",
+    "claim": "The Guardian has live coverage of the Paris shooting at Charlie Hebdo  http://t.co/M27vO7xFIk",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552791719272775680",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0031",
+    "claim": "Appalled to hear news of apparent terrorist attack in Paris. My thoughts are with the family and friends of those killed.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552791831390732289",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0032",
+    "claim": "in support of those that have died today in Paris #CharlieHebdo #freedomwillNeverDie http://t.co/FkkDZXChdt",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552792131447037952",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0033",
+    "claim": "#Freespeech is a non-negotiable human right. We condemn the appalling attack on Charlie Hebdo, and any attempt to silence the free press.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552792253601947648",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0034",
+    "claim": "More Charlie Hebdo covers, including \"the life of Mohamed\". These are people willing to kill over a cartoon. http://t.co/VAEnDpBYSu",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552792518870708224",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0035",
+    "claim": "I'm uneasy with the portrayal of Charlie Hebdo as magazine that \"provokes\". No, it publishes cartoons. People choose how they react to that.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552793409438904321",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0036",
+    "claim": "Not 1st attack on #CharlieHebdo. Office was firebombed on 2 Nov '11 over controvers. caricature of Prophet Muhammad http://t.co/0wAINRJ1Z7",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552793759210307584",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0037",
+    "claim": "Paris on maximum alert after #CharlieHebdo attack, officials say as President Hollande arrives at scene http://t.co/MmxR2nmi5R",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552794286849536001",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0038",
+    "claim": "Paris alert status raised to the highest level with #CharlieHebdo gunmen reportedly on the run http://t.co/xcK8lY9IeR http://t.co/tQuxQ06Q7f",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552794514424102913",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0039",
+    "claim": "'...but I will to the death defend your right to say it'.\n\n#charliehebdo\n#voltaire http://t.co/oFEHT8Xx3v",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552794995942772736",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0040",
+    "claim": "VIDEO from the scene of fatal shooting in Paris http://t.co/sL3aG464Lt #CharlieHebdo http://t.co/FLC3mR5C2S",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552795056080691200",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0041",
+    "claim": "It would go some way as a tribute to those killed at #CharlieHebdo if papers in every democracy published this Thurs http://t.co/CyqwWWWgJh",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552795778922864640",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0042",
+    "claim": "French president #Hollande says there is no doubt attack on #CharlieHebdo is terrorist attack. http://t.co/Rve1Lp0EXf http://t.co/8LFA5LFSnS",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552795953301045248",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0043",
+    "claim": "DEVELOPING: Paris on high terrorist alert after #CharlieHebdo shooting - Hollande http://t.co/3Jsosc7yl3 http://t.co/Lvv3J8o6e8",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552796269069209600",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0044",
+    "claim": "Check this photo via journo @EliseBarthet. Alleged pic of the gunmen facing a police car near #CharlieHebdo offices: http://t.co/eBpt190LD0",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552796506642591744",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0045",
+    "claim": "We don't know who carried out Charlie Hebdo attack. However if they were Muslims, then they are the enemies of me and most other Muslims.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552796522904297472",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0046",
+    "claim": "Here are some of the satirical pictures Charlie Hebdo have produced #freespeech #BanIslam http://t.co/m4OaNCf5e0",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552796619104866304",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0047",
+    "claim": "#CharlieHebdo: Love is stronger than hate. http://t.co/23KHz2OsH3",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552796625467621376",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0048",
+    "claim": "#CharlieHebdo - Hollande: Media shooting was 'undoubtedly terrorist attack'. Photo: Kenzo Tribouillard #AFP http://t.co/ZK41w7J7yc",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552796895513681920",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0049",
+    "claim": "Spread this cover in solidarity with the victims at Charlie Hebdo. Don't let the sword conquer the pen. http://t.co/XVkPPbkLhn",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552797058990870528",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0050",
+    "claim": "TREND IT #IStandWithFrance http://t.co/7M7PwFJnkz",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552797114863198208",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0051",
+    "claim": "BREAKING: Astonishing video of the Paris terror attack as it was happening &gt; http://t.co/sglPyWCWhL (via @BBCDanielS ) #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552797148975464448",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0052",
+    "claim": "We strongly condemn the horrible shooting at #CharlieHebdo. We must all stand up for freedom of speech and expression. @Charlie_Hebdo_",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552797154692300800",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0053",
+    "claim": "Video of #terrorists attacking Charlie Hebdo HQ in Paris http://t.co/SdniwkJtT1 http://t.co/z6O8IhNjCk",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552797170295144449",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0054",
+    "claim": "Six days after Charlie Hebdo’s offices were firebombed, their front cover was this. “Love is stronger than hate.” http://t.co/7YInU4Cc00",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552797729504886784",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0055",
+    "claim": "Shocked &amp; appalled by senseless attack at 'Charlie Hebdo' - London stands with Paris &amp; the people of France against this horrific scourge",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552797828977029120",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0056",
+    "claim": "BREAKING: French government raises security alert to highest level after deadly attack at magazine Charlie Hebdo. http://t.co/ak9mTVfJdR",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552798010196107264",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0057",
+    "claim": "Charlie Hebdo, we love you",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552798016646942721",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0058",
+    "claim": "Our sympathies &amp; prayers are with the victims, their families &amp; the French people.  #Ahmadiyya Muslims totally condemn murder #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552798200990806016",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0059",
+    "claim": "I don't support the cartoons or language published by publishers BUT #CharlieHebdo attack is indeed \"sickening\". 11 dead in #terrorattack",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552798310889566209",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0060",
+    "claim": "Freedom of expression should never be an act of bravery. Whoever threatens it is an enemy of all freedom-loving people. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552798640679702528",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0061",
+    "claim": "Our thoughts go out out to people at Charlie Hebdo and their families. Senseless violence is never the answer. http://t.co/YGscPqvtYM",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552798832359374849",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0062",
+    "claim": "France raises national alert system to highest level after attack at Charlie Hebdo HQ http://t.co/TyRyAhzSPP http://t.co/cWYQCmwg0z",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552799100715167744",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0063",
+    "claim": "I do not agree with what you have to say, but I'll defend to the death your right to say it - Voltaire #CharlieHebdo http://t.co/Mbn5SiWA7Z",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552799606833430528",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0064",
+    "claim": "\"100 lashes if you don't die of laughter.\" Eleven people killed over this. #Paris #CharlieHebdo http://t.co/87cB3mWVAQ",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552799669521481728",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0065",
+    "claim": "How to respond to the murderous attack on Charlie Hebdo? Every newspaper in the free world should print this. http://t.co/sC2ot63F6j",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552800070199148544",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0066",
+    "claim": "There is never justification for violence because one is offended by a cartoon. Ever. #CharlieHebdo http://t.co/RhBpC5Iwh9",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552800222553079809",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0067",
+    "claim": "Worth remembering Jens Stoltenberg's words after Utøya: \"Our response is more democracy, more openness and more humanity\" #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552800223496790018",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0068",
+    "claim": "#CharlieHebdo Attack. I have just been asked by AlJazeera if CharlieHebdo journalists should apologize (for making fun at Islamists).",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552800290861510656",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0069",
+    "claim": "At least 11 dead in Muslim terror attack on France.  Show your support by posting Charlie Hebdo cartoons. #banislam http://t.co/85PozIrhHg",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552800929519792128",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0070",
+    "claim": "LATEST: At least 11 dead in shooting at French magazine #CharlieHebdo; France raises terror alert to highest level http://t.co/JVRjF5b1lw",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552801028262096896",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0071",
+    "claim": "#France has a problem (and quite a serious one) #CharlieHebdo http://t.co/H15l2ARF3d",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552801115516186625",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0072",
+    "claim": "Masked gunmen pictured near #CharlieHebdo offices http://t.co/Zvfj25EnEc http://t.co/qTWhoLqICk",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552801667855695873",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0073",
+    "claim": "Fact: Most every journalist in India will stand with #CharlieHebdo. But not one publication will reprint their most controversial work.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552801724898226176",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0074",
+    "claim": "We condemn the attack on #CharlieHebdo Whomever the attackers are, and whatever the cause may be, nothing justifies the taking of life",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552801894092275712",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0075",
+    "claim": "The right 2 draw Muhammad without being shot is as precious to many of us as Muhammad is to the #CharlieHebdo killers http://t.co/QeDw4tRoK9",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552801979861598208",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0076",
+    "claim": "The 2011 issue of Charlie Hebdo, whose cover featured Mohammed. http://t.co/eSflYdFBRH",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552802011733716992",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0077",
+    "claim": "Map shows where gun attack on satirical magazine #CharlieHebdo took place in central Paris http://t.co/5AZAKumpNd http://t.co/ECFYztMVk9",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552802098602319873",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0078",
+    "claim": "Quran says: Whoever kills an innocent soul.. it is as if they had killed the entire humanity.\n#CharlieHebdo #Paris http://t.co/UinZ805MpA",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552802099331735552",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0079",
+    "claim": "Showing solidarity with the victims is necessary, but not enough. We must insist to coexist, and reject those who don't. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552802117908697088",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0080",
+    "claim": "Video has emerged showing the moment gunmen opened fire at #CharlieHebdo's HQ in Paris. http://t.co/ZRSbE9Fc1L http://t.co/tE7KwlhuSN",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552802515969138688",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0081",
+    "claim": "Parisian doctor: \"Let's all subscribe to #CharlieHebdo...It'll be in my waiting room until I retire.\" via @bourmeau http://t.co/3IjTQCk3o7",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552802531672588288",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0082",
+    "claim": "I wish that all news outlets publish #CharlieHebdo 's cartoons/satire tomorrow on their front pages as a tribute to the dead. RIP",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552802714816905216",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0083",
+    "claim": "Forget truth, today even satire is unacceptable.\n#CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552803413583360001",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0084",
+    "claim": "I do not agree with what you have to say, but I'll defend to the death your right to say it - Voltaire #CharlieHebdo http://t.co/5fzKhE1LdJ",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552803431702749184",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0085",
+    "claim": "Freedom of speech is a right as much as a cause worth fighting for. Obscurantism is a danger made real today #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552803757864787968",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0086",
+    "claim": "In reporting the story, the Telegraph has pixilated Charlie Hebdo's La Vie De Mahomet: http://t.co/ElhnzUNr0A http://t.co/jdHLcQBtfp",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552803792618799106",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0087",
+    "claim": "Headline from #CharlieHebdo this week: ISIS executes Phorphet Mohamed; police chase terrorists http://t.co/4qqVIjLP8A http://t.co/1zJuiZVLf3",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804175310901248",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0088",
+    "claim": "Bad bad day for press freedom, freedom of expression and satire. \nThoughts with relatives of victims at #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804198161854464",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0089",
+    "claim": "I've seen one national newspaper pixelate out the cover of Charlie Hebdo - the self-censorship begins. Terrorists 1, Enlightenment 0",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804301316579330",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0090",
+    "claim": "From 2011: France's Charlie Hebdo newspaper has long reveled in the art of provocation http://t.co/etWcBzHpnl",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804328319504384",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0091",
+    "claim": "Time to #TakeAStand #IAmCharlieHebdo #CharlieHebdo http://t.co/V9ZUa4VRJy",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804454773567488",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0092",
+    "claim": "I'm no fan of #charliehebdo but this is a sickening, terrifying, unjustifiable attack on journalists. My thoughts &amp; prayers with the victims",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804491821854720",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0093",
+    "claim": "Between governrment attacks and terrorist attacks, it's hard to be a journalist these days. #Charlie #hebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804592988479488",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0094",
+    "claim": "Wide and uncompromising condemnations on Arab Twitter of insane attack on #CharlieHebdo - I hope everyone sees this. Don't focus on fools.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804769241526272",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0095",
+    "claim": "I support #CharlieHebdo and a free press. Please RT these cartoons to show a united and dignified defiance. http://t.co/Mc2aOwSHYA",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804784819154944",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0096",
+    "claim": "Condolences to staff at Charlie Hebdo &amp; their loved ones. They stood for free speech &amp; paid with their lives.  I stand with #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804810463117312",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0097",
+    "claim": "Utterly disgusting. @AlJazeera blaming free speech and Berlin protests for attack on #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552804962158514176",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0098",
+    "claim": "What we know about the gunmen in the #CharlieHebdo attack: http://t.co/z4xLMmeDl5 (Pic: Gelbard/AFP/Getty) http://t.co/KKtg9fGeba",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805050620604418",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0099",
+    "claim": "Sirens on my Paris street. Poor Charlie Hebdo, poor families, poor kids who live here, poor local muslims who will get blame, poor Paris",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805069956329472",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0100",
+    "claim": "The attack on #CharlieHebdo is cowardly and senseless.. As a Muslim I am outraged by what happened today. Prayers to the families",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805169206157312",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0101",
+    "claim": "Never was it more appropriate to say “F*** ‘em if they can’t take a joke”. Charlie Hebdo an absolute equal opportunity offender of satire.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805175874686977",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0102",
+    "claim": "Good backgrounder from The New Yorker from 2012: The Charlie Hebdo Affair: Laughing at Blasphemy http://t.co/LDwDceoxFg",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805209424941058",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0103",
+    "claim": "#CharlieHebdo Satire was the father of true political freedom, born in the 18th century; the scourge of bigots and tyrants. Sing its praises",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805450350362625",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0104",
+    "claim": "It is speculative, but judging by video &amp; imagery from scene of #CharlieHebdo attack, these gunmen are not amateurs - they look experienced.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805638024077312",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0105",
+    "claim": "Journalists, admin staff and police officers among those injured in #CharlieHebdo attack http://t.co/cMsu4ASQjl http://t.co/zqkHLJK5b9",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805799106732032",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0106",
+    "claim": "RAW VIDEO (WARNING GRAPHIC):\nTerror Attack on Charlie Hebdo Paris Headquarters:\nhttps://t.co/QZo3WBXHfD via @NomaNescio \n#ParisShooting",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805830677258240",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0107",
+    "claim": "Killing writers and journalists and cartoonists will not silence them but make their voices louder.\n#CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805853762699264",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0108",
+    "claim": "Do not share the video of masked gunmen at #CharlieHebdo offices executing a police officer. It is barbaric &amp; his life should be respected.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805956619628544",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0109",
+    "claim": "Attempts to extend blame for this to all Muslims should be treated with the same disgust as attempts to justify the attacks. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552805970536333314",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0110",
+    "claim": "#Picture\nIS terrorist scum executes injured police man in #Paris.\n#CharlieHebdo http://t.co/wov8G7GL0b",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552806056154644480",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0111",
+    "claim": "Satirical French magazine #CharlieHebdo attacked by gunmen: latest news report http://t.co/gjTbTOQIMo http://t.co/IIKBOs2Puk",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552806077755326464",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0112",
+    "claim": "#CharlieHebdo: Nothing can justify attack &amp; those who organised &amp; committed these crimes should be brought to justice http://t.co/eoDTplTQll",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552806462125506560",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0113",
+    "claim": "As a Muslim, killing innocent people in the name of Islam is much, much more offensive to me than any cartoon can ever be. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552806610490646528",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0114",
+    "claim": "Oh God my heart is sick at this Charlie Hebdo news. One of the only brave newspapers in the world.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552806624046641153",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0115",
+    "claim": "In sympathy and solidarity with @Charlie_Hebdo_  #CharlieHebdo http://t.co/W2CBdVJ0k6",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552806890498191361",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0116",
+    "claim": "When an ideology resorts to murdering satirists, it is publically admitting how weak, insecure &amp; ridiculous it is. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552806932176977920",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0117",
+    "claim": "Follow this list for journalists &amp; media outlets covering the attack on #CharlieHebdo magazine in Paris: http://t.co/6njHXoEbq4",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807013764575232",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0118",
+    "claim": "Lets play a game. This will be blamed on (a) Racism of Charlie Hebdo (b) Poverty (c) Colonial France (d) Evil of Free Speech",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807054268956673",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0119",
+    "claim": "Even for a hardened news man, today's mass shooting at #CharlieHebdo is ferociously shocking - writes @JonSnowC4 http://t.co/AcIzmQcx0a",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807071054184448",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0120",
+    "claim": "Attack on #CharlieHebdo:The intl community cannot allow extremists to silence the free flow of opinions http://t.co/1BgO8HRRbf #pressfreedom",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807101442322432",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0121",
+    "claim": "#CharlieHebdo in the eyes of #CharlieHebdo http://t.co/v195erxsY2",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807191775043585",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0122",
+    "claim": "RT #JeSuisCharlie In support of #CharlieHebdo. http://t.co/EvNntxSRIc",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807236339507200",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0123",
+    "claim": "why has daily telegraph pixelated this Charlie Hebdo cover? Shameful  http://t.co/GsU6a91szT",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807328287064065",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0124",
+    "claim": "The attack on Charlie Hebdo is likely to radicalize all sides in the debate about Islam and Islamism. That's what terrorists are aiming for.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807536894947329",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0125",
+    "claim": "The shooting at French magazine #CharlieHebdo is a hideous attack on free speech, not just in Paris but everywhere",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807582113730560",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0126",
+    "claim": "The #CharlieHebdo attack represents possibly the most direct attack by Islamists on Western ideals to date.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807598966059008",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0127",
+    "claim": "The extremists will benefit from an escalation, it justifies them. People who just want to coexist are thrown under the bus. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807658869493760",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0128",
+    "claim": "Gunmen in #CharlieHebdo attack are on the loose, \"will (be) chased as long as necessary,\" French President says. http://t.co/zUfxcG3Rfs",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807783385800705",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0129",
+    "claim": "Video: #CharlieHebdo's editor tells Al Jazeera why they are a target [2012] http://t.co/EJK2Em0M8R http://t.co/UK970UDPPz",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807832257835008",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0130",
+    "claim": "TWITTER.  Charlie Hebdo is a racist publication.  Murderers murdering people are not justified in murdering people. Crazy paradox, I know.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807874192482305",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0131",
+    "claim": "This cartoon by Robert Mankoff from The New Yorker Sept 2012.\n#CharlieHebdo http://t.co/pyQfnV42Su",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552807904597008385",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0132",
+    "claim": "The events at #CharlieHebdo won’t make me discriminate against Islam. I will remain steadfast in finding all religions equally stupid.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808135006887937",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0133",
+    "claim": "Every newspaper should publish a free issue of #charliehebdo so we can all see the reason 12 people have died today. http://t.co/XazdjLCAOR",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808138127446016",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0134",
+    "claim": "You can't kill free speech #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808242276229120",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0135",
+    "claim": "#CharlieHebdo-an equal opportunity satirical mag in the grand tradition of #France.\nLong may that tradition continue!\n#FreedomOfSpeech",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808461940301825",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0136",
+    "claim": "#CharlieHebdo because no1 thought allowing 1000s of Euro jihadis to cross to #Syria &amp; get trained &amp; radicalized would have any consequences?",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808487924011008",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0137",
+    "claim": "Only this, today #CharlieHebdo http://t.co/QXfYkDwBtd",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808658510561280",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0138",
+    "claim": "If you kill men for making fun of your ideas, you need to rethink your ideas. #JeSuisCharlie",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808669646036992",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0139",
+    "claim": "\"Terror\" in France: Gunmen in #CharlieHebdo attack still at large. What we know so far http://t.co/Jfqmha1GdV (Getty) http://t.co/2QyDcbE7P6",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808701065953280",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0140",
+    "claim": "A sad day for France, for journalism, for free speech, and those whose beliefs the attackers pretend to represent  #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808776492130304",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0141",
+    "claim": "French media says cartoonist behind original Prophet cartoon is dead #CharlieHebdo via @EricWRandolph",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552808785329549313",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0142",
+    "claim": "People who have actually died of being offended: 0\nPeople who have died because others were offended: far too many.\n#CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552809042687819776",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0143",
+    "claim": "Journalists and others using #JeSuisCharlie to express support for freedom of speech after Paris attack http://t.co/OSzSvL3pKy",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552809336360419329",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0144",
+    "claim": "#CharlieHebdo massacre: modus operandi, efficiency &amp; focus point to jihad returnees, guys trained to kill repeatedly not one-time kamikazes",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552809902956367872",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0145",
+    "claim": "Anyone that believes tolerance is the solution to militant islam, remember this picture.  #CharlieHebdo  http://t.co/SGVZjaUqgV",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810032765497345",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0146",
+    "claim": "Stop making excuses for terrorists. #CharlieHebdo tweeted this before Christmas and there'll be no avenging Jesus. http://t.co/BS3Z759LLx",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810124776308736",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0147",
+    "claim": "My timeline is full of Muslims condemning #CharlieHebdo attacks - just like the rest of the world.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810166744547328",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0148",
+    "claim": "Second thought: Only way to pay respect to those who died is by defending the rights that Charlie Hebdo defended, and in as upfront a way.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810249263259649",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0149",
+    "claim": "Before the brutal attacks on #CharlieHebdo, the big news today was Houellebecq's new novel imagining a Muslim president of France in 2022.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810276635291649",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0150",
+    "claim": "Here's what we know about the #CharlieHebdo attack so far\nhttp://t.co/MUwOzTP7kI http://t.co/b8UzO0Gz5W",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810287695659009",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0151",
+    "claim": "Attack on #CharlieHebdo is \"brazen assault on free expression in the heart of Europe\" says @RobertMMahoney http://t.co/K7qmDH22IH",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810359409897472",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0152",
+    "claim": "This is not in the name of Islam. These ppl don't represent ANY religion. No matter what they say. Disgraceful &amp; heartbreaking #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810477940932609",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0153",
+    "claim": "In reporting the #CharlieHebdo terrorist attack, @Telegraph blurs out the French mag's cover cartoon of Mohammed http://t.co/8SDCsSVlc8",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810625873633280",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0154",
+    "claim": "We condemn the attack in #Paris and pray for soonest recovery for the injured and patience to families &amp; people of France. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810805243412481",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0155",
+    "claim": "Just waiting for @BarackObama, @David_Cameron and @JustinTrudeau to say: \"#CharlieHebdo massacre in Paris had nothing to do with Islam.\"",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810855503757313",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0156",
+    "claim": "#NATO SG statement on terrorist attack in #Paris, #France  http://t.co/UBFmqktXjC http://t.co/KZCi5UR5fx",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552810884029222912",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0157",
+    "claim": "No more hand-wringing and fence-sitting. To support #CharlieHebdo and #FreedomOfSpeech we must publish their images. http://t.co/N2M2bzT6ao",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811128326475776",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0158",
+    "claim": "#CharlieHebdo: what we know so far http://t.co/7GgpZ4tKlF http://t.co/yMGSiOnl3H",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811254667288576",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0159",
+    "claim": "#CharlieHebdo shooting: what we know so far http://t.co/6YUX5mot92 http://t.co/nC9fYCh6qd",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811319079227393",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0160",
+    "claim": "Shooting at #CharlieHebdo \"an attack on freedom\", says Dominque Moisi, Parisian political analyst: http://t.co/B3AvGBwp82",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811354323963904",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0161",
+    "claim": "World leaders condemn the #CharlieHebdo attack as \"barbaric\", \"sickening\" and \"intolerable\". http://t.co/c05qiB7eIu http://t.co/HaijRrbwlz",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811408094945280",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0162",
+    "claim": "Horrific news re Charlie Hebdo. People of huge courage, wit and integrity murdered by people who find those ideas frightening. Awful.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811438994378754",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0163",
+    "claim": "Killing innocent people in the name of Islam is much, much more offensive to me than any cartoon can ever be. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811533303296001",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0164",
+    "claim": "Make Fun of Hindu God's #PK = Creativity , Freedom of Expression\nMake Fun of A Prophet = 12 killed \n\n#CharlieHebdo http://t.co/1qQGFtuhO2",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811606640721921",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0165",
+    "claim": "#CharlieHebdo massacre: 'Attack will heighten anti-Islamic tensions across Europe' http://t.co/1EBlSuVTWe",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811735183552512",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0166",
+    "claim": "Hours before the attack, #CharlieHebdo published a cartoon featuring the Islamic State: http://t.co/Jfqmha1GdV (epa) http://t.co/yeWyZxIdHH",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552811772038881280",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0167",
+    "claim": "it'll be fascinating to see how all the topical satire shows on British TV respond to the #CharlieHebdo murders. Oh no, hang on...",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812020295532544",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0168",
+    "claim": "If we submit to extremists this Cartoon by Robert Mankoff from The New Yorker will be the norm. #CharlieHebdo http://t.co/sNMbQVPlqJ",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812040926941185",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0169",
+    "claim": "Thousands tweeting #JeSuisCharlie in support of #CharlieHebdo. http://t.co/GfdXTw6jgl",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812098057936896",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0170",
+    "claim": "If we hate after atrocities like this, we're doing exactly what the perpetrators want us to do #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812140479148032",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0171",
+    "claim": "The car used by armed gunmen who stormed the Paris offices of satirical newspaper #CharlieHebdo Photo D. Faget #AFP http://t.co/ZBkDglcBcE",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812188315172864",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0172",
+    "claim": "Gunmen responsible for deadly attack on #CharlieHebdo are still on the loose, @fhollande says. http://t.co/sBOkqaRg1Y http://t.co/km88JvZmCa",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812399997489152",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0173",
+    "claim": "Pray for the victims. Deadly terrorist attack on French magazine Charlie Hebdo in Paris #FreePress http://t.co/HCEG92Zxtz",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812416485294080",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0174",
+    "claim": "This doesn't represent all Muslims, but, sorry, it does represent the official Islamic school of a certain key Arab state. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812475134275584",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0175",
+    "claim": "RIP #CharlieHebdo jihadist terrorist victims.This is why I'd tweeted it was so important for Muslims to openly *not* be offended by cartoons",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812572731527168",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0176",
+    "claim": "\"I do not agree with what you have to say, but I'll defend to the death your right to say it.\" -Voltaire #FreeSpeech  #JeSuisCharlie",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812623658762240",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0177",
+    "claim": "Deeply disturbed and saddened by yet another Islamist massacre. \nShame on religion.  #CharlieHebdo #ParisShooting\n. http://t.co/H6yPad7bWD",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812775907422209",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0178",
+    "claim": "Single finger raised by #CharlieHebdo gunman looks like what ISIS fighters often do in battle. http://t.co/6GmumrBndC CC @EliotHiggins",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812811651272705",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0179",
+    "claim": "You can kill journalists, cartoonists. You can't kill the freedom of the press. You have only made their message stronger. #JeSuisCharlie",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812847651377153",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0180",
+    "claim": "Charlie Hebdo attack: what we know so far  – live updates http://t.co/FzR7qMoeKB @claire_phipps http://t.co/YDuMHPAHrt",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812951208722432",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0181",
+    "claim": "We can never allow the barbaric savagery of islamic extremism to defeat our right to free speech. \n#CharlieHebdo http://t.co/YmQqlYNbnx",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552812984343330816",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0182",
+    "claim": "A terrorist might appear from among Muslims, but then he loses the qualities that make him Muslim. *** #CharlieHebdo http://t.co/YFQh8QmShP",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552813011803836416",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0183",
+    "claim": "Instead of focusing on the recent dead in Paris, we should keep in mind that Islamists have committed 24,784 deadly attacks since 9/11.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552813155572006912",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0184",
+    "claim": "You can twist and turn it as you like: Publishing cartoons is not a crime. Using them as an excuse for religious fascism is. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552813160110252032",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0185",
+    "claim": "Third thought: defending the rights that Charlie Hebdo defended means defending free speech, not attacking Muslims.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552813223360352256",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0186",
+    "claim": "BBC reporter noting that Charlie Hebdo also mocks Christians, Jews and atheists. Oddly, though, those groups don't seem to bomb them.",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552813420136128513",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0187",
+    "claim": "My family is French. My family is Muslim. I am a journalist. We are grieving. #CharlieHebdo",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552813590919778304",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0188",
+    "claim": "Press \"must stand together to send the message that murderous attempts to silence us will not stand\" #CharlieHebdo http://t.co/aiF9kVv9hw",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552813988644659200",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0189",
+    "claim": "Simply put by our French colleagues in solidarity with the journalists of #CharlieHebdo http://t.co/mXwAsi2N4S",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552814076167213056",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0190",
+    "claim": "Let there be more, not less.  #CharlieHebdo http://t.co/Ut4yuxi30O",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552814130827370498",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0191",
+    "claim": "Real Muslims have never seen, and cannot see #terrorism as a way for solving their problems.*** #CharlieHebdo http://t.co/sdJvdNxAGM",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552814137857036289",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0192",
+    "claim": "#CHARLIEHEBDO SHOOTING: Gunmen still at large, manhunt underway - LIVE UPDATES http://t.co/3Jsosc7yl3 http://t.co/LzCuCBqQP8",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552814213081866240",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0193",
+    "claim": "Our statement on the Charlie Hebdo attack: defend freedom of speech, resist hatred. https://t.co/1Ok61nfRwj",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552814216550563840",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0194",
+    "claim": "How the terrorists win: @Telegraph is now blurring the cover Mohammed cartoon of #CharlieHebdo in its reporting http://t.co/DffGzIrQZI",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552814280471367680",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  },
+  {
+    "id": "pheme-0195",
+    "claim": "Thread 552814317096407040 from charliehebdo-all-rnr-threads",
+    "label": "REFUTES",
+    "evidence": "{\"is_rumour\": \"nonrumour\"}",
+    "source_url": "https://twitter.com/i/web/status/552814317096407040",
+    "date": "",
+    "domain": "Charliehebdo",
+    "is_rumour": "nonrumour"
+  }
+]
