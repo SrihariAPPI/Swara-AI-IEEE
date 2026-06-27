@@ -5,6 +5,9 @@ let ai: GoogleGenAI | null = null;
 
 function getClient(): GoogleGenAI {
   if (!ai) {
+    if (!appConfig.geminiApiKey) {
+      throw new Error('GEMINI_API_KEY environment variable is required for LLM operations');
+    }
     ai = new GoogleGenAI({ apiKey: appConfig.geminiApiKey });
   }
   return ai;

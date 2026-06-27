@@ -1,9 +1,7 @@
 
 
-function getEnv(name: string, fallback?: string): string {
-  const val = process.env[name] || fallback;
-  if (!val) throw new Error(`Missing required env: ${name}`);
-  return val;
+function getEnv(name: string, fallback: string = ''): string {
+  return process.env[name] || fallback;
 }
 
 export const appConfig = {
